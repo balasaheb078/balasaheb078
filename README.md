@@ -1,6 +1,11 @@
 Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc370f078f78b1c9861563f44429e7d4bb4f4/Hi.gif" width="30px"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Balasaheb+Hinge)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
+
 ##
 <p align="center">Welcome to my GitHub profile! I'm a passionate web developer with a love for coding and problem-solving. Here, you'll find a collection of projects and contributions that reflect my journey in the world of software development.</p>
 
