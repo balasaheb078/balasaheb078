@@ -2,7 +2,7 @@ Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc37
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Balasaheb+Hinge)](https://git.io/typing-svg)
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
 <br/>
 
