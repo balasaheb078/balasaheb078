@@ -1,4 +1,4 @@
-Hi there👋,
+Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc370f078f78b1c9861563f44429e7d4bb4f4/Hi.gif" width="30px"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Balasaheb+Hinge)](https://git.io/typing-svg)
 ##
@@ -12,8 +12,10 @@ Hi there👋,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/" height="30" width="40" /></a>
 </p>
+
 
 ## ⚡ Technologies and Tools
 
@@ -30,4 +32,7 @@ Hi there👋,
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balasaheb078&label=Profile%20views&color=0e75b6&style=flat" alt="balasaheb078" /> </p>
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=balasaheb078&show_icons=true&theme=radical">
+</p>
 
