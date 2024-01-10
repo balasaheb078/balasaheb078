@@ -11,9 +11,9 @@ Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc37
 
 
 
-- 👨‍💻 My Portfolio available at [https://balasaheb078.github.io/portfolio/]
+- 👨‍💻 My Portfolio available at [Click here](https://balasaheb078.github.io/portfolio/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
