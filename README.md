@@ -4,7 +4,9 @@ Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc37
 <div align="center">
 <img alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
-<br/>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balasaheb078&label=Profile%20views&color=0e75b6&style=flat" alt="balasaheb078" /> </p>
 
 ##
 <p align="center">Welcome to my GitHub profile! I'm a passionate web developer with a love for coding and problem-solving. Here, you'll find a collection of projects and contributions that reflect my journey in the world of software development.</p>
@@ -15,7 +17,7 @@ Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc37
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/) 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balasaheb-hinge-5aa29022a/" height="30" width="40" /></a>
@@ -35,9 +37,19 @@ Hello World! <img src="https://github.com/balasaheb078/balasaheb078/blob/a16cc37
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balasaheb078&label=Profile%20views&color=0e75b6&style=flat" alt="balasaheb078" /> </p>
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=balasaheb078&show_icons=true&theme=radical">
-</p>
+
+
+
+## 📊 GitHub Stats:
+
+
+<img align=center src="https://github-readme-stats.vercel.app/api?username=balasaheb078&show_icons=true&theme=radical">
+
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=balasaheb078&theme=merko&hide_border=false) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balasaheb078&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
